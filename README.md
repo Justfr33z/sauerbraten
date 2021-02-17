@@ -1,6 +1,6 @@
 # sauerbraten
 
-[![license](./LICENSE)
+[![license](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 
 Sauerbraten is a simple cheat for the game sauerbraten written in rust.
 
